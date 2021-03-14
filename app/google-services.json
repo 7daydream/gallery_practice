@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "391874758192",
+    "project_id": "galprac",
+    "storage_bucket": "galprac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391874758192:android:381ddca7f6c8e6b92e0ff5",
+        "android_client_info": {
+          "package_name": "com.example.galprac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391874758192-qa8h0javoouvm8svmeeblum1njf5ohfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMUgWHE7s7Ob_Kd2jBzkmfOgad7pCHL8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391874758192-qa8h0javoouvm8svmeeblum1njf5ohfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
